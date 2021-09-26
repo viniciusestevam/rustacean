@@ -15,3 +15,12 @@ Here I've learned the basics of Rust by implementing a simple Guessing game. The
 - Standard library and macros
 - Basic of pattern matching using `match`
 - Usage of external crates and `cargo`
+
+### Chapter 3
+
+In this chapter I've learned the base structures of the Rust programming language, such as:
+
+- Scalar and compound data types
+- Functions and the difference between expressions and statements
+- Control flow (`if` statements)
+- Loops
