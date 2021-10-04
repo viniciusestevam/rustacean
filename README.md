@@ -24,3 +24,8 @@ In this chapter I've learned the base structures of the Rust programming languag
 - Functions and the difference between expressions and statements
 - Control flow (`if` statements)
 - Loops
+
+**Mini projects:**
+
+- [Temperature converter](./chapter-3/projects/temperature-converter) (°F <-> °C)
+- [Fibonacci Sequence](./chapter-3/projects/fibonacci)

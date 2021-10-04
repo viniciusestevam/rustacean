@@ -1,3 +1,11 @@
+/**
+ * This could be a implementation using memoization
+ * but as I've not learned more complex data structures,
+ * I will leave it this way for now. In the future I plan
+ * to create a better implementation to enrich this documentation
+ * and have a performance comparison
+ */
+
 fn main() {
     let number = 10;
     println!("Fibonacci sequence of {}", number);
