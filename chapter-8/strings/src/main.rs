@@ -1,3 +1,6 @@
+#![allow(unused_variables)]
+#![allow(dead_code)]
+
 fn main() {
     let mut s1 = String::from("foo");
     let s2 = "bar";

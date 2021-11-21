@@ -1,3 +1,6 @@
+#![allow(unused_variables)]
+#![allow(dead_code)]
+
 use std::fs::{self, File};
 use std::io::{self, ErrorKind, Read};
 

@@ -1,3 +1,8 @@
+#![allow(unused_variables)]
+#![allow(unused_mut)]
+#![allow(unused_assignments)]
+#![allow(dead_code)]
+
 enum Message {
     Quit,
     Move { x: i32, y: i32 },
