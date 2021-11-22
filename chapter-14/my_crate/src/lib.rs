@@ -1,3 +1,5 @@
+#![allow(unused_variables)]
+
 //! # Art
 //!
 //! A library for modeling artistic concepts.
